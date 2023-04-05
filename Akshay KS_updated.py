@@ -24,7 +24,7 @@ sns.set()
 
 
 import pandas as pd
-import matplotlib.pyplot as 
+import matplotlib.pyplot as plt
 
 # Load the data into dataframes
 df_co2 = pd.read_csv('API_19_DS2_en_csv_v2_5312862.csv', skiprows=4)
